@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm RithyTep</h1>
+<h1 align="center">RithyTep</h1>
 <h3 align="center">No Haram only improvement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithytep&label=Profile%20views&color=0e75b6&style=flat" alt="rithytep" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithytep" alt="rithytep" /></a> </p>
 
-- 🔭 I’m currently working on **Cam Arrival Card**
 
-- 🌱 I’m currently learning **Angular 16, Firestore**
+ [thybeyoud.web.app](thybeyoud.web.app)
 
-- 👨‍💻 All of my projects are available at [thybeyoud.web.app](thybeyoud.web.app)
-
-- 💬 Ask me about **why u so mercy**
-
-- 📫 How to reach me **teprithy2020@gmail.comm**
-
-- 📄 Know about my experiences [whatever](whatever)
-
-- ⚡ Fun fact **i was heartbroken but i must dump play**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
