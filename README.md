@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://images.unsplash.com/photo-1508159452718-d22f6734a00f?w=600&q=80" width="450" alt="Angkor Wat"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=150&text=🏛️%20ANGKOR%20WAT%20🏛️&fontSize=40&fontColor=ffffff&desc=Kingdom%20of%20Wonder&descSize=16&descAlignY=75&animation=fadeIn"/>
 
 <br/>
 
