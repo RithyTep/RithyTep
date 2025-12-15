@@ -1,27 +1,35 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032EA1,50:E00025,100:032EA1&height=200&section=header&text=Rithy%20Tep&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🇰🇭%20Cambodian%20Developer&descSize=20&descAlignY=55"/>
+
 <div align="center">
 
-# Hey there! I'm Rithy Tep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E00025&center=true&vCenter=true&random=false&width=600&lines=%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D!+Welcome!;No+Haram%2C+Only+Improvement;Building+from+the+Kingdom+of+Wonder;Proud+Cambodian+Developer+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;No+Haram+Only+Improvement;Building+Cool+Stuff+Daily;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+<img src="https://images.unsplash.com/photo-1508159452718-d22f6734a00f?w=600&q=80" width="450" alt="Angkor Wat"/>
+
+<br/>
+
+*🏛️ Building code as timeless as Angkor Wat 🏛️*
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-### About Me
+### 🇰🇭 About Me
 
 ```typescript
 const rithy = {
-    pronouns: "he" | "him",
+    name: "Rithy Tep",
+    location: "Cambodia 🇰🇭",
+    title: "Full Stack Developer",
+    languages: ["Khmer", "English"],
     code: ["TypeScript", "JavaScript", "Python"],
     tools: ["Angular", "Firebase", "Git"],
     philosophy: "No Haram, Only Improvement",
-    currentFocus: "Building awesome web experiences",
-    funFact: "I debug with console.log and I'm not ashamed"
+    motto: "ខំប្រឹងរៀន ខំប្រឹងធ្វើ" // Work hard, Learn hard
 };
 ```
 
@@ -29,48 +37,48 @@ const rithy = {
 
 ---
 
-### Tech Arsenal
+### 🛕 Tech Arsenal
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-032EA1?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E00025?style=for-the-badge&logo=angular&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-032EA1?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-E00025?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-032EA1?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E00025?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-032EA1?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RithyTep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=15" height="180" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RithyTep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=15" height="180" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RithyTep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&border_radius=15&title_color=E00025&icon_color=032EA1&text_color=333333&bg_color=ffffff" height="180" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RithyTep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true&border_radius=15&title_color=E00025&text_color=333333&bg_color=ffffff" height="180" alt="languages graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RithyTep&theme=dracula&hide_border=true&border_radius=15" height="180" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RithyTep&theme=vue&hide_border=true&border_radius=15&ring=E00025&fire=E00025&currStreakLabel=032EA1&sideLabels=032EA1" height="180" alt="streak stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RithyTep&theme=dracula&hide_border=true&radius=16" width="95%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RithyTep&theme=vue&hide_border=true&radius=16&line=E00025&point=032EA1&area_color=E00025&area=true" width="95%" alt="activity graph"/>
 </div>
 
 ---
 
-### Connect With Me
+### 🌏 Connect With Me
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rithy500)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thybeyond)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RithyTep)
+[![YouTube](https://img.shields.io/badge/YouTube-E00025?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rithy500)
+[![Twitch](https://img.shields.io/badge/Twitch-032EA1?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thybeyond)
+[![GitHub](https://img.shields.io/badge/GitHub-E00025?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RithyTep)
 
 </div>
 
@@ -78,7 +86,7 @@ const rithy = {
 
 <div align="center">
 
-### Watch the Snake Eat My Contributions
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -92,10 +100,14 @@ const rithy = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rithytep&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="rithytep"/>
+<img src="https://komarev.com/ghpvc/?username=rithytep&label=Profile%20Views&color=E00025&style=for-the-badge" alt="rithytep"/>
 
-### "No Haram, Only Improvement"
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+### 🇰🇭 "No Haram, Only Improvement" 🇰🇭
+
+**ជោគជ័យ** • *Success through dedication*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032EA1,50:E00025,100:032EA1&height=120&section=footer"/>
