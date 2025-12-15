@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://www.thetravel.com/img/gallery/25-stunning-photos-of-angkor-wat-in-cambodia/intro-1655739839.jpg" width="450" alt="Angkor Wat"/>
+<img src="https://images.unsplash.com/photo-1508159452718-d22f6734a00f?w=600&q=80" width="450" alt="Angkor Wat"/>
 
 <br/>
 
@@ -107,10 +107,6 @@ const rithy = {
 ### 🇰🇭 "No Haram, Only Improvement" 🇰🇭
 
 **ជោគជ័យ** • *Success through dedication*
-
-<br/>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="cambodia"/>
 
 </div>
 
