@@ -19,6 +19,7 @@ const rithy = {
     code: ["TypeScript", "JavaScript", "Python"],
     tools: ["Angular", "Firebase", "Git"],
     philosophy: "No Haram, Only Improvement",
+    funFact: "Always learning, always improving"
 };
 ```
 
