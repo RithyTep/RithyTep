@@ -4,15 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E00025&center=true&vCenter=true&random=false&width=600&lines=%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D!+Welcome!;No+Haram%2C+Only+Improvement;Building+from+the+Kingdom+of+Wonder;Proud+Cambodian+Developer+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Angkor_Wat_from_the_air.jpg/1200px-Angkor_Wat_from_the_air.jpg" width="400" style="border-radius: 10px;"/>
+<br/>
 
-*Building code as timeless as Angkor Wat* 🏛️
+<img src="https://www.thetravel.com/img/gallery/25-stunning-photos-of-angkor-wat-in-cambodia/intro-1655739839.jpg" width="450" alt="Angkor Wat"/>
+
+<br/>
+
+*🏛️ Building code as timeless as Angkor Wat 🏛️*
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ### 🇰🇭 About Me
 
@@ -103,6 +107,10 @@ const rithy = {
 ### 🇰🇭 "No Haram, Only Improvement" 🇰🇭
 
 **ជោគជ័យ** • *Success through dedication*
+
+<br/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="cambodia"/>
 
 </div>
 
