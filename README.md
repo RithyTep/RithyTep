@@ -62,8 +62,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RithyTep&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=808080&ring_color=ffffff" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithyTep&layout=compact&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=808080" height="150"/>
 
-<img src="https://streak-stats.demolab.com/?user=RithyTep&theme=dark&background=00000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=808080&sideLabels=808080&currStreakNum=ffffff&sideNums=ffffff&dates=808080" alt="streak"/>
-
 ![](https://img.shields.io/badge/─────────────────────────────────────-000?style=flat-square)
 
 ### 接続 ─ connect
